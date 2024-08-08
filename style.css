@@ -3,7 +3,7 @@ body, html {
      height: 100%;
      font-family: 'Montserrat', ubuntu;
      
-     background: url(materials/smart_home_wall.jpg) no-repeat center center fixed;
+     background: url(smart_home_wall.jpg) no-repeat center center fixed;
      -webkit-background-size: cover;
      -moz-background-size: cover;
      -o-background-size: cover;
